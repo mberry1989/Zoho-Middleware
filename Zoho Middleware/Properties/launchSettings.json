@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "TransACT_Zoho_Middleware": {
+    "Zoho_Middleware": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

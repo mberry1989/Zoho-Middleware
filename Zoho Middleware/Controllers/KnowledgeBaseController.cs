@@ -33,7 +33,7 @@ namespace Zoho_Middleware.Controllers
             // helpful instructions for manual tokens:
             // https://help.zoho.com/portal/en/community/topic/connecting-to-zoho-desk-api-with-postman
             // replace this with 1 hour refresh schedule task code in a long-term solution.
-            string TOKEN = "1000.b2bdb6e768b4ce657242726df7d11af9.5548aeb104d93808fa98ea77243b1fe9";
+            string TOKEN = "1000.56b258b0838aa0b3a4a6ce894479395e.2ef97a8412ee054380d35122482920e2";
             return TOKEN;
         }
 

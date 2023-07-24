@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>TransACT_Zoho_Middleware</RootNamespace>
+    <RootNamespace>Zoho_Middleware</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
