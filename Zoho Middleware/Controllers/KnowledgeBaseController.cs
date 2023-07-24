@@ -1,7 +1,7 @@
 ﻿using Kontent.Ai.Delivery.Abstractions;
 using Kontent.Ai.AspNetCore.Webhooks.Models;
 using Kontent.Ai.Urls.Delivery.QueryParameters;
-using TransACT_Zoho_Middleware.Models;
+using Zoho_Middleware.Models;
 using KontentAiModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
@@ -11,7 +11,7 @@ using System.Net.Http.Headers;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace TransACT_Zoho_Middleware.Controllers
+namespace Zoho_Middleware.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

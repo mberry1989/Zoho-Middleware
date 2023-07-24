@@ -1,4 +1,4 @@
-﻿namespace TransACT_Zoho_Middleware.Models
+﻿namespace Zoho_Middleware.Models
 {
     public class ZohoArticle
     {
